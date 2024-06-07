@@ -1,0 +1,6 @@
+bucket_name         = "pawsclaws-s3"
+dynamodb_table      = "pawsclaws-terraform-lock"
+subdomain           = "www"
+domain_name         = "pawsnclawshotel.com.au"
+zone_id             = "Z09880711TVBWU4WT86TT"
+prefix              = "pawsclaws"
